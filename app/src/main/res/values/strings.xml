@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">workmanager</string>
+    <string name="start">Start</string>
+    <string name="test_one_time_work_request_builder">Test OneTimeWorkRequestBuilder</string>
+    <string name="one_time_work_request_builder">OneTimeWorkRequestBuilder</string>
+    <string name="test_periodic_work_request">Test PeriodicWorkRequest</string>
+    <string name="periodic_work_request">PeriodicWorkRequest</string>
+    <string name="chain_work_screen">ChainWorkScreen</string>
+    <string name="test_chain_work_screen1">Test ChainWorkScreen 1 </string>
+    <string name="test_chain_work_screen2">Test ChainWorkScreen 2 </string>
+    <string name="note_wait_three_seconds">After clicking the "Start" button below, wait 3 seconds for the notification to appear.</string>
+    <string name="note_periodic_work_request">Every 10 seconds there will be a notification.</string>
+    <string name="note_chain_work_screen">After clicking the "Start" button below, wait 3 seconds for the notification to appear. The interval between 2 workRequests is 3 seconds</string>
+    <string name="background_task_completed">Background task completed</string>
+</resources>
