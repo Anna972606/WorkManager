@@ -16,3 +16,4 @@ https://github.com/user-attachments/assets/a8803b94-cae1-4806-afbc-020cd95cc7e6
 
 https://github.com/user-attachments/assets/65ba5d97-7385-4fff-a7a3-476ed027bdca
 
+**See more of my writing here https:** https://medium.com/@anna972606
